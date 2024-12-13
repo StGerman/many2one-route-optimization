@@ -1,0 +1,10 @@
+google_api_key: "FAKE_API_KEY"
+constraints:
+  max_time_between_stops_many2one: 900
+  max_total_route_time: 3600
+car_types:
+  - type: "Minivan"
+    seats: 14
+  - type: "Sedan"
+    seats: 4
+destination_location: [32.0853, 34.7818]  # Tel Aviv
